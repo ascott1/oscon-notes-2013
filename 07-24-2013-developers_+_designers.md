@@ -25,7 +25,7 @@ It's ok to fail - everyone grows from the experience even if it becomes a failur
 
 [Inventing on Principle – Bret Victor](http://vimeo.com/36579366/)
 
-Demo: (Scribbler)[https://github.com/caktus/django-scribbler]
+Demo: [Scribbler](https://github.com/caktus/django-scribbler)
 
 The conversations shaped the project - not just who wrote the code/made the commits
 
