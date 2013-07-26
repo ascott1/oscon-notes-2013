@@ -15,3 +15,12 @@
 - [Supercharged Human-Centered Design in Open Source Software](https://github.com/ascott1/oscon-notes-2013/blob/master/07-24-2013-supercharged_human-centered_design.md)
 - [Become a Digital Humanitarian Open Data and Open Source for Good](https://github.com/ascott1/oscon-notes-2013/blob/master/07-24-2013-become_a_digital_humanitarian_open_data_and_open_source_for_good.md)
 - Squishymedia's KegBot-based technology testbed
+
+## Thursday July 24 2013
+
+- Opening Keynotes
+- Getting Started with 3D Programming in Three.js
+- Quantifying Your Fitness
+- Functional Composition
+- Adventures in Node.js
+- Hardware Hacking With Your Kids
