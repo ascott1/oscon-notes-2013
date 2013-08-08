@@ -19,8 +19,8 @@
 ## Thursday July 24 2013
 
 - Opening Keynotes
-- Getting Started with 3D Programming in Three.js
-- Quantifying Your Fitness
-- Functional Composition
-- Adventures in Node.js
-- Hardware Hacking With Your Kids
+- [Getting Started with 3D Programming in Three.js](https://github.com/ascott1/oscon-notes-2013/blob/master/07-25-2013-intro_to_three.js.md)
+- [Quantifying Your Fitness](https://github.com/ascott1/oscon-notes-2013/blob/master/07-25-2013-quantifying_your_fitness.md)
+- [Functional Composition](https://github.com/ascott1/oscon-notes-2013/blob/master/07-25-2013-functional_composition.md)
+- [Adventures in Node.js](https://github.com/ascott1/oscon-notes-2013/blob/master/07-25-2013-adventures_in_node.md)
+- [Hardware Hacking With Your Kids](https://github.com/ascott1/oscon-notes-2013/blob/master/07-25-2013-hardware_hacking_with_your_kids.md)
